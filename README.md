@@ -3,7 +3,7 @@ This repository contains all my **Python projects** assigned by my instructors a
 
 ## 📂 Project List  
 
-| #  | Project Name                 | Description                          |
+|    | Project Name                 | Description                          |
 |----|------------------------------|--------------------------------------|
 | 1  | **Unit Converter**           | A simple web-based unit converter using Streamlit. |
 
