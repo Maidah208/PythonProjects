@@ -34,5 +34,5 @@ This is a simple and interactive password strength checker built with [Streamlit
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/Maidah208/PythonProjects/tree/main/PasswordStrengthChecker
    cd password-strength-checker
