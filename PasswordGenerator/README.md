@@ -12,6 +12,9 @@ A simple and interactive password generator built using [Streamlit](https://stre
 - Instantly generate secure passwords
 - User-friendly interface powered by Streamlit
 
+## 🌐 Live Demo  
+🔗 https://password---generator.streamlit.app/
+
 ## 🛠️ Tech Stack
 
 - Python
