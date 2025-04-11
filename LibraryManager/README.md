@@ -30,5 +30,6 @@ Create a user-friendly CLI tool that lets users manage their books with the foll
 
 1. **Clone the repository** (or download the file):
    ```bash
-   git clone https://github.com/Maidah208/PythonProjects/new/main/LibraryManager
+   git clone https://github.com/Maidah208/PythonProjects/tree/main/LibraryManager
+
 
